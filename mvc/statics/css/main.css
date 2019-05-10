@@ -1,0 +1,87 @@
+body {
+  background: #4e514e;
+}
+form {
+   margin-left:20%;
+margin-right:20%;
+
+  border-radius: 25px;
+  background-color: #f2f2f2;
+  padding: 15px;
+}
+input {
+    border: 2px solid #999;
+    border-radius: 0%;
+padding:5px;
+margin-left:1%;
+    padding-right:15%; 
+    
+    
+}
+
+label {
+    display:  inline-block;
+    width: 10%;   
+padding:10px;
+}
+header, main {
+  max-width: 1024px;
+  margin: auto;
+ background: #694c4c;
+  padding: 10px;
+}
+
+/* Nav styles */
+nav.main-nav ol {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+nav.main-nav li {
+  float: left;
+border-right: 1px solid #bbb;
+
+}
+
+nav.main-nav li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+nav.main-nav ol li a:hover {
+  background-color: #818a82;
+  color: white;
+}
+
+.active {
+  background-color: #65645c;
+  color: white;
+}
+button{
+  
+  margin-top: 5%;
+margin-right: 10%;
+margin-bottom: 2%;
+margin-left:35%;
+width:30%;
+
+}
+
+.casilla{
+	   margin-left:20%;
+margin-right:20%;
+	border-radius: 25px;
+  background-color: #f2f2f2;
+  padding: 15px;
+}
+h1{
+  color:gold;
+  text-align:center;
+  font-family:serif,arial;
+}
